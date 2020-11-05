@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Labs</string>
+    <string name="hello_message">Mo ki Ile Aye O!</string>
+    <string name="ButtonText">Mo jẹ bọtini</string>
+    <string name="textViewMsg">Wo GUI mi</string>
+    <string name="flagButtonText">Kiliki ibi</string>
+    <string name="checkBoxText">Yẹ eléyìí wò!</string>
+    <string name="switchText">Tan-an / Pa</string>
+    <string name="hint_message">Tẹ ibi</string>
+    <string name="emailTextView">Tẹ adirẹsi imeeli rẹ:</string>
+    <string name="emailTextEdit">Tẹ imeeli nibi</string>
+    <string name="passwordTextView">Tẹ ọrọ iwọle rẹ:</string>
+    <string name="loginButton">WO ILE</string>
+    <string name="yourProfile">Profaili Rẹ</string>
+    <string name="yourName">Orukọ rẹ:</string>
+    <string name="enterYourName">Tẹ orukọ rẹ</string>
+    <string name="yourEmail">Imeeli rẹ:</string>
+    <string name="enterYourEmail">Tẹ imeeli rẹ</string>
+    <string name="yourPicture">Aworan rẹ:</string>
+    <string name="clickButtonAbove">Tẹ bọtini ti o wa loke lati ya aworan</string>
+    <string name="go_to_chat">Lọ si iwiregbe</string>
+    <string name="send">Firanṣẹ</string>
+    <string name="receive">Gba</string>
+</resources>
